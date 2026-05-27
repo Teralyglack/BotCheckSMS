@@ -1,0 +1,18 @@
+[project]
+name = "chat-digest-ru-bot"
+version = "0.3.0"
+description = "Telegram bot with Russian AI APIs, history, exports and Telegram admin panel."
+requires-python = ">=3.11"
+readme = "README.md"
+
+[tool.ruff]
+line-length = 110
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

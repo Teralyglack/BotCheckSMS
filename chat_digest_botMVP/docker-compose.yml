@@ -1,0 +1,10 @@
+services:
+  bot:
+    build: .
+    env_file:
+      - .env
+    restart: unless-stopped
+    volumes:
+      - ./.tmp:/app/.tmp
+      - ./data:/app/data
+      - ./exports:/app/exports
