@@ -235,4 +235,17 @@ pytest -q
 
 ---
 
+## Работа бота 
+<img width="589" height="1280" alt="photo_5242431949471685535_y" src="https://github.com/user-attachments/assets/43826d5b-ae6a-42b4-adf4-8b0d2b5e29e2" />
 
+<img width="589" height="1280" alt="photo_5242431949471685536_y" src="https://github.com/user-attachments/assets/e10269b1-d769-4a7e-a725-9eb2dd7cffaf" />
+
+<img width="962" height="1280" alt="photo_5242431949471685541_y" src="https://github.com/user-attachments/assets/eb8e8a4c-ec11-4b06-961f-3ae4f539908e" />
+
+<img width="1280" height="684" alt="photo_5242431949471685540_y" src="https://github.com/user-attachments/assets/f2b5757a-aacb-4725-8747-1154ef36c7e9" />
+
+<img width="589" height="1280" alt="photo_5242431949471685538_y" src="https://github.com/user-attachments/assets/be4a79dd-06a4-4339-8c6f-2cfacfa04603" />
+
+<img width="589" height="1280" alt="photo_5242431949471685537_y" src="https://github.com/user-attachments/assets/c200c679-dbf6-485b-984a-ea152ccee96b" />
+
+<img width="589" height="1280" alt="photo_5242431949471685542_y" src="https://github.com/user-attachments/assets/de0eb623-55e0-48b0-a43a-26e683f91742" />
